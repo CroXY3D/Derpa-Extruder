@@ -21,11 +21,11 @@ Note, you may have to file off a super tiny bit of the lower ear as it can inter
   - Qty 4 M3x? Screws to mount.
 
 #RRF 3 Settings
--M906 E300  ; 300 mA current (try 350)
--M92 E703   ; steps/mm
--M201 E100  ; Accel, Not tuned
--M203 E1800 ; Max Speed
--M566 E1000 ; 1000 RRF InstantDv
+ M906 E300  ; 300 mA current (try 350)
+ M92 E703   ; steps/mm
+ M201 E100  ; Accel, Not tuned
+ M203 E1800 ; Max Speed
+ M566 E1000 ; 1000 RRF InstantDv
 
 #Discord for Derpa-Mini and CroXY
 [Discord](https://discord.gg/ryj6wyx)
