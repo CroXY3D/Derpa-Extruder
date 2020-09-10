@@ -14,7 +14,7 @@ Note, you may have to file off a super tiny bit of the lower ear as it can inter
 
 # BOM
   - Qty 1 BMG
-  - Qty 1 LDO Nema 14 Motor
+  - Qty 1 [LDO Nema 14 Motor](https://www.printedsolid.com/products/ldo-nema-14-motor-ldo-36sth17-1004ahg?variant=32690500370517)
   - Qty 1 M3x35 SHCS
   - Qty 2 M3x45 SHCS
   - Qty 1 M3x6 SHCS
