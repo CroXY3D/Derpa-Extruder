@@ -1,6 +1,6 @@
 # Derpa Mini
  
-A lightweight extruder using a 70g LDO Nema14 motor with integrated 10T pinion.  Printed parts total 4g.  Total weight of Derpa + BMG is 140g.  A BMG plus a 25mm pancake is approx 220g.
+A lightweight extruder using a 70g LDO Nema14 motor with integrated 10T pinion.  Printed parts total 4g.  Total weight of Derpa + Nema 14 Motor + BMG is 140g.  A BMG + 25mm pancake is approx 220g.
 
 The 10 tooth pinion on the LDO motor along with the BMG gear gives a 5.1:1 gear ratio, which is enough to push 14mm^3/s through an e3dv6 with 0.4mm nozzle.  It should be able to push more through a Volcano.
 
