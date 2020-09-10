@@ -28,7 +28,7 @@ M201 E100  ; Accel, Not tuned
 M203 E1800 ; Max Speed
 M566 E1000 ; 1000 RRF InstantDv
 ```
-# Discord for Derpa-Mini and CroXY
+# Discord for Derpa-Extruder and CroXY
 
 [Discord Invite](https://discord.gg/ryj6wyx)
 
