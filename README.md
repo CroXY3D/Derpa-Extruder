@@ -12,19 +12,22 @@ The 10 tooth pinion on the LDO motor along with the BMG gear gives a 5.1:1 gear 
 
 Note, you may have to file off a super tiny bit of the lower ear as it can interfere with the screw holding the BMG together.  
 
-BOM:
-Qty 1 BMG
-Qty 1 LDO Nema 14 Motor
-Qty 1 M3x35 SHCS
-Qty 2 M3x45 SHCS
-Qty 1 M3x6 SHCS
-Qty 4 M3x? Screws to mount.
+#BOM
+-Qty 1 BMG
+-Qty 1 LDO Nema 14 Motor
+-Qty 1 M3x35 SHCS
+-Qty 2 M3x45 SHCS
+-Qty 1 M3x6 SHCS
+-Qty 4 M3x? Screws to mount.
 
-RRF 3 Settings:
-'''M906 E300  ; 300 mA current (try 350)
-M92 E703   ; steps/mm
-M201 E100  ; Accel, Not tuned
-M203 E1800 ; Max Speed
-M566 E1000 ; 1000 RRF InstantDv
-'''
+#RRF 3 Settings
+-M906 E300  ; 300 mA current (try 350)
+-M92 E703   ; steps/mm
+-M201 E100  ; Accel, Not tuned
+-M203 E1800 ; Max Speed
+-M566 E1000 ; 1000 RRF InstantDv
+
+#Discord for Derpa-Mini and CroXY
+[Discord](https://discord.gg/ryj6wyx)
+
 
