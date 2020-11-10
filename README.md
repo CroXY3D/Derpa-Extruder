@@ -12,6 +12,9 @@ The 10 tooth pinion on the LDO motor along with the BMG gear gives a 5.1:1 gear 
 
 Note, you may have to file off a super tiny bit of the lower ear as it can interfere with the screw holding the BMG together.  
 
+STEP and Fusion 360 archive provided. 
+
+
 # BOM
   - Qty 1 BMG
   - Qty 1 [LDO Nema 14 Motor](https://www.printedsolid.com/products/ldo-nema-14-motor-ldo-36sth17-1004ahg?variant=32690500370517)
