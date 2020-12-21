@@ -35,4 +35,7 @@ M566 E1000 ; 1000 RRF InstantDv
 
 [Discord Invite](https://discord.gg/ryj6wyx)
 
+# Remixes
+bartolomeus has made an [excellent remix of Derpa](https://www.thingiverse.com/thing:4692392) for the Sovol SV01 printer.  Looks like his work could be adapted to a number of other printers.
+
 
